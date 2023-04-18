@@ -21,3 +21,9 @@
 (What changes might users need to make in their application due to this PR?)
 
 - **Other information:**
+
+--
+
+Credit:
+
+Based on Example 5: [Checklist and detailed description GitHub pull request template](https://axolo.co/blog/p/part-3-github-pull-request-template)
